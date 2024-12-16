@@ -1,3 +1,3 @@
 # My-Portfolio
 
-Creating an portfolio to showcase my skills and projects.
+Created a portfolio to showcase my skills and projects.
